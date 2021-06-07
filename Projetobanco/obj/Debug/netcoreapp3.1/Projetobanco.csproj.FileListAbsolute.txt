@@ -1,0 +1,15 @@
+/home/dev-meta/Documents/estudos/Projetobanco/bin/Debug/netcoreapp3.1/Projetobanco
+/home/dev-meta/Documents/estudos/Projetobanco/bin/Debug/netcoreapp3.1/Projetobanco.deps.json
+/home/dev-meta/Documents/estudos/Projetobanco/bin/Debug/netcoreapp3.1/Projetobanco.runtimeconfig.json
+/home/dev-meta/Documents/estudos/Projetobanco/bin/Debug/netcoreapp3.1/Projetobanco.runtimeconfig.dev.json
+/home/dev-meta/Documents/estudos/Projetobanco/bin/Debug/netcoreapp3.1/Projetobanco.dll
+/home/dev-meta/Documents/estudos/Projetobanco/bin/Debug/netcoreapp3.1/Projetobanco.pdb
+/home/dev-meta/Documents/estudos/Projetobanco/obj/Debug/netcoreapp3.1/Projetobanco.csprojAssemblyReference.cache
+/home/dev-meta/Documents/estudos/Projetobanco/obj/Debug/netcoreapp3.1/Projetobanco.AssemblyInfoInputs.cache
+/home/dev-meta/Documents/estudos/Projetobanco/obj/Debug/netcoreapp3.1/Projetobanco.AssemblyInfo.cs
+/home/dev-meta/Documents/estudos/Projetobanco/obj/Debug/netcoreapp3.1/Projetobanco.csproj.CoreCompileInputs.cache
+/home/dev-meta/Documents/estudos/Projetobanco/obj/Debug/netcoreapp3.1/Projetobanco.dll
+/home/dev-meta/Documents/estudos/Projetobanco/obj/Debug/netcoreapp3.1/Projetobanco.pdb
+/home/dev-meta/Documents/estudos/Projetobanco/obj/Debug/netcoreapp3.1/Projetobanco.genruntimeconfig.cache
+/home/dev-meta/Documents/estudos/Projetobanco/bin/Debug/netcoreapp3.1/MySqlConnector.dll
+/home/dev-meta/Documents/estudos/Projetobanco/obj/Debug/netcoreapp3.1/Projetobanco.csproj.CopyComplete

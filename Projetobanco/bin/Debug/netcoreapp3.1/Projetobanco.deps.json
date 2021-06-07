@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Projetobanco/1.0.0": {
+        "dependencies": {
+          "MySqlConnector": "1.3.9"
+        },
+        "runtime": {
+          "Projetobanco.dll": {}
+        }
+      },
+      "MySqlConnector/1.3.9": {
+        "runtime": {
+          "lib/netcoreapp3.1/MySqlConnector.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.3.9.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projetobanco/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MySqlConnector/1.3.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ptkTalj0Aj1lll+VGSdUx14Q4XO85H5bC3MLJX17lmjJXF0N6jZ7jsyFZvp4J+5OOv0BReklMFxt6Ov10hDQlw==",
+      "path": "mysqlconnector/1.3.9",
+      "hashPath": "mysqlconnector.1.3.9.nupkg.sha512"
+    }
+  }
+}
